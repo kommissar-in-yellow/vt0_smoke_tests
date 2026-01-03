@@ -1,0 +1,1 @@
+{"summary": "Smoke 7 Reject out-of-scope action (allowed_paths enforcement)", "steps": [{"title": "Test out-of-scope action", "description": "Verify the platform rejects a plan targeting a path outside allowed_paths and handles it as an expected-pass smoke result.", "role": "testing", "actions": [{"type": "VerifyFileExists", "path": "README.md"}]}], "allowed_paths": ["smoke"]}
