@@ -2,3 +2,5 @@
 .backups/
 workspace-backup.tar.gz
 report.md
+fire/work/__pycache__/calc.cpython-312.pyc
+fire/work/__pycache__/test_calc.cpython-312.pyc
